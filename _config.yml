@@ -1,0 +1,28 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+title: py3SEB workshop
+description: Three-day workshop where sessions will include a short lecture on the topic followed by interactive textbooks/exercises using Jupyter Lab 
+keywords:
+  - MyST Markdown
+  - pyTSEB Tutorial
+  - py3SEB Tutorial
+authors:
+  - name: Vicente Burchard
+    affiliation: Environmental Remote Sensing and Field Spectroscopy Laboratory, SpecLab-CSIC, Spain
+    orcid: 0000-0003-0222-8706
+    email: hector.nieto@ica.csic.es
+  - name: Héctor Nieto
+    affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+    orcid: 0000-0003-4250-6424
+    email: hector.nieto@ica.csic.es
+  - name: Benjamin Mary
+    affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+    orcid: 0000-0003-0815-842X
+  - name: Radoslaw Guzinski
+    affiliation: DHI-GRAS, Denmark
+    orcid: 0000-0003-0044-6806
+repository: 
+  ulr: https://github.com/VicenteBurchard/py3SEB-workshop
+execute:
+  execute_notebooks: force
+      
+

@@ -1,0 +1,24 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Day 1 - Physical principles and TSEB/3SEB introduction
+    chapters:
+      - file: 101-Net_radiation.ipynb
+      - file: 102-Turbulence_and_sensible_heat_flux.ipynb
+      - file: 103-TSEB_introduction.ipynb
+      - file: 104-3SEB_introduction.ipynb
+  - caption: Day 2 - UAV imagery
+    chapters:
+      - file: 201-UAV_canopy_and_soil_temperatures.ipynb
+      - file: 202-UAV_TSEB-2T.ipynb
+      - file: 203-UAV_3SEB.ipynb
+  - caption: Day 3 - Satellite imagery
+    chapters:
+      - file: 301-Copernicus_TSEB_3SEB.ipynb
+      - file: 302-Biophysical_Traits_RTM.ipynb
+  - caption: Bonus Material
+    chapters:
+      - file: B01-Row_crops.ipynb
+      - file: B02-TSEB-SW.ipynb
+      - file: B03-Mosaics_corregistration.ipynb
+      - file: B04-stomata_conductance.ipynb

@@ -1,0 +1,155 @@
+lat:
+  rip720_1: 36.849
+  rip720_2: 36.849
+  rip720_3: 36.848
+  rip720_4: 36.848
+  bar007: 38.753
+  bar012: 38.751369
+  slmN: 38.289338
+  slmS: 38.280488
+  rip760: 36.839025
+  bar016: 38.747
+
+lon:
+  rip720_1: -120.176
+  rip720_2: -120.174
+  rip720_3: -120.176
+  rip720_4: -120.174
+  bar007: -122.980
+  bar012: -122.974658
+  slmN: -121.117764
+  slmS: -121.117597
+  rip760: -120.210140
+  bar016: -122.963
+
+stdlon:
+  rip720_1: -120.
+  rip720_2: -120.
+  rip720_3: -120.
+  rip720_4: -120.
+  bar007: -120.
+  bar012: -120.
+  slmN: -120.
+  slmS: -120.
+  rip760: -120.
+  bar016: -120.
+
+elev:
+  rip720_1: 61.
+  rip720_2: 61.
+  rip720_3: 61.
+  rip720_4: 61.
+  bar007: 113.
+  bar012: 112.
+  slmN: 38.
+  slmS: 37
+  rip760: 58.
+  bar016: 112.
+
+row_direction:
+  rip720_1: 90.
+  rip720_2: 90.
+  rip720_3: 90.
+  rip720_4: 90.
+  bar007: 135.
+  bar012: 45.
+  slmN: 90.
+  slmS: 90
+  rip760: 90.
+  bar016: 135.  # Similar to Bar007
+
+interrow:
+  rip720_1: 3.35
+  rip720_2: 3.35
+  rip720_3: 3.35
+  rip720_4: 3.35
+  bar007: 3.35
+  bar012: 3.35
+  slmN: 3.35
+  slmS: 3.35
+  rip760: 2.74
+  bar016: 3.35  # Assume the same for bar
+  
+hc_min:
+  rip720_1: 1.20
+  rip720_2: 1.20
+  rip720_3: 1.20
+  rip720_4: 1.20
+  bar007: 1.25
+  bar012: 1.25
+  slmN: 1.42
+  slmS: 1.42
+  rip760: 1.20
+  bar016: 1.25  # Assume the same for bar012
+
+hc_max:
+  rip720_1: 2.2
+  rip720_2: 2.2
+  rip720_3: 2.2
+  rip720_4: 2.2
+  bar007: 2.3
+  bar012: 2.3
+  slmN: 2.25
+  slmS: 2.25
+  rip760: 2.5
+  bar016: 2.3  # Assume the same for bar012
+
+wc_min:
+  rip720_1: 0.5
+  rip720_2: 0.5
+  rip720_3: 0.5
+  rip720_4: 0.5
+  bar007: 0.5
+  bar012: 0.5
+  slmN: 0.5
+  slmS: 0.5
+  rip760: 0.5
+  bar016: 0.5  # Assume the same for bar012
+  
+wc_max:
+  rip720_1: 2.25
+  rip720_2: 2.25
+  rip720_3: 2.25
+  rip720_4: 2.25
+  bar007: 1.8
+  bar012: 1.8
+  slmN: 2.6
+  slmS: 2.0
+  rip760: 1.8
+  bar016: 1.8  # Assume the same for bar012
+
+zh:  # Measurement height of air temperature
+  rip720_1: 4.0
+  rip720_2: 4.0
+  rip720_3: 4.0
+  rip720_4: 4.0
+  bar007: 4.0
+  bar012: 4.4
+  slmN: 5.0
+  slmS: 5.0
+  rip760: 5.5
+  bar016: 4.0  # Guessed from Bill
+
+zm:  # Measurement height of wind speed
+  rip720_1: 4.0
+  rip720_2: 4.0
+  rip720_3: 4.0
+  rip720_4: 4.0
+  bar007: 4.0
+  bar012: 4.4
+  slmN: 5.0
+  slmS: 5.0
+  rip760: 5.0
+  bar016: 4.0  # Guessed from Bill
+
+alpha_pt_clim:  # Climate-based Priestley-Taylor coefficient multiplicative factor.
+  rip720_1: 1.23
+  rip720_2: 1.23
+  rip720_3: 1.23
+  rip720_4: 1.23
+  bar007: 1.09
+  bar012: 1.09
+  slmN: 1.06
+  slmS: 1.06
+  rip760: 1.23
+  bar016: 1.09

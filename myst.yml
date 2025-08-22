@@ -1,0 +1,46 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Workshop on recent advances in py3SEB
+
+
+  description: Three-day workshop that will show the most recent advances made in 3SEB modelling framework as well as pyTSEB and py3SEB code structure and syntaxis.
+  keywords:
+      - MyST Markdown
+      - py3SEB Tutorial
+  authors:
+      - name: Héctor Nieto
+        affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+        orcid: 0000-0003-4250-6424
+        email: hector.nieto@ica.csic.es
+      - name: Vicente Burchard-Levine
+        affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+        orcid: 0000-0003-0222-8706
+      - name: Benjamin Mary
+        affiliation: Instituto de Ciencias Agrarias, ICA-CSIC, Spain
+        orcid: 0000-0003-0815-842X 
+  github: https://github.com/VicenteBurchard/py3SEB-workshop
+  open_access: false
+  jupyter: 
+    #lite: true
+    #thebe: true
+    # binder:
+    #   repo: hectornieto/TSEB-workshop
+    server:
+      url: http://localhost:8888
+      token: jupyterlab-py3seb-workshop
+      
+
+  # bibliography: []
+site:
+  template: book-theme
+  title: JupyterLab 3SEB tutorial
+  options:
+    logo_text: py3SEB workshop
+    logo: ./input/figures/shuttleworth_wallace_model.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
+

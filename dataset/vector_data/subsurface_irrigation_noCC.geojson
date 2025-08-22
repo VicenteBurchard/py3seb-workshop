@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "subsurface_irrigation_noCC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Q1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.244387222247198, 37.548551485419409, 0.0 ], [ -121.239442147954506, 37.548580124944401, 0.0 ], [ -121.239589479058395, 37.549022115973223, 0.0 ], [ -121.239655567442199, 37.550322641302913, 0.0 ], [ -121.2402156890642, 37.550332113154717, 0.0 ], [ -121.240246945612498, 37.55101684688016, 0.0 ], [ -121.245132259890497, 37.550989769256873, 0.0 ], [ -121.244387222247198, 37.548551485419409, 0.0 ] ] ] } }
+]
+}

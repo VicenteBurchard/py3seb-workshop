@@ -1,0 +1,52 @@
+name: py3seb-workshop
+channels:
+    - conda-forge
+    - plotly
+dependencies:
+    - jupyter
+    - notebook
+    - jupyterlab
+    - jupyter-book
+    - ipywidgets
+    - nodejs>=20,<21
+    - mystmd
+    - jupyterlab-myst
+    - libwebp
+    - gdal
+    - pandas
+    - geopandas
+    - rasterio
+    - rioxarray
+    - pyproj
+    - proj
+    - matplotlib
+    - mpl-point-clicker
+    - ipympl
+    - plotly
+    - bokeh
+    - netCDF4
+    - scikit-learn
+    - SALib
+    - cdsapi
+    - plotly
+    - pip
+    - opencv
+    - oslo.concurrency
+    - py6s
+    - openeo
+    - pystac-client
+    - netcdf4
+    - ipyleaflet
+    - scikit-image
+    - cdsapi
+    - cfgrib
+    - oschmod
+    - pip:
+      - git+https://github.com/radosuav/pyDMS
+      - git+https://github.com/hectornieto/pypro4sail
+      - git+https://github.com/hectornieto/pyTSEB
+      - git+https://github.com/hectornieto/model_evaluation
+      - git+https://github.com/VicenteBurchard/py3SEB.git
+      - git+https://github.com/hectornieto/airborne_tools
+      - git+https://github.com/hectornieto/meteo_utils
+
