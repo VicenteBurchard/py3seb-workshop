@@ -2,7 +2,7 @@
 Digital *Jupyter Book* collection developed for the **Workshop on py3SEB modelling framework**.
 
 ## Installation
-You can use [![Binder](https://mybinder.org/badge_logo.svg)](add-new-link) for runing the notebooks in the cloud or...
+You can use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VicenteBurchard/py3seb-workshop/master) for runing the notebooks in the cloud or...
 
 You should have these programs installed:
 
