@@ -1,6 +1,7 @@
 import numpy as np
 import skimage.morphology as morph
-from tseb_input_creator import gdal_utils as gu
+from functions import gdal_utils as gu
+
 import logging
 
 log = logging.getLogger(__name__)
