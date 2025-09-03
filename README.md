@@ -67,7 +67,7 @@ Open your web browser to [`http://localhost:3000`](http://localhost:3000)
   
 4. Satellite-based implementation (4 hours)
 
-    a. [Copernicus TSEB and TSEB](./501-Copernicus_TSEB_3SEB.ipynb)
+    a. [Copernicus TSEB and 3SEB](./501-Copernicus_TSEB_3SEB.ipynb)
 	
 	b. [Retrieval of biophysical traits with RTM](./302-Biophysical_Traits_RTM.ipynb)
 
